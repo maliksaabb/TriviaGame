@@ -15,7 +15,7 @@ $(document).ready(function(){
     var q4 = document.forms["questions-form"]["q4"].value;
     var q5 = document.forms["questions-form"]["q5"].value;
   
-  var correctAnswer = ["b", "a", "b", "b", "d"];
+  var correctAnswer = ["b", "a", "a", "b", "d"];
   
   
   // put htis in a loop somehow
