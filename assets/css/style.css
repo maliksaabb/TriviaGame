@@ -5,6 +5,8 @@ body{
     font-size: 20px;
     text-align: center;
     padding: 10px;
+    background-image: url("https://www.muralswallpaper.com/app/uploads/the-world-in-pastel-maps-plain-820x532.jpg");
+}
     
     }
     
@@ -17,9 +19,17 @@ body{
        color: red;
    }
     h3 {
-        color:green;
+        color:;
     }
-   
+    form {
+        background-color:oldlace;
+        margin-left:100px;
+        margin-right:100px;
+         }
+
+    #submit-button{
+        color:red;
+    }
    
     
     
