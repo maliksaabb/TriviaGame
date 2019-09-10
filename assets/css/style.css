@@ -24,6 +24,7 @@ body{
    }
     h3 {
         color: green;
+        letter-spacing:2px;
     }
     form {
         background-color:oldlace;
@@ -48,10 +49,6 @@ body{
         background-color:wheat;
         margin-left:200px;
         margin-right: 200px;
-        
-        
-
-        
         
         
     }
