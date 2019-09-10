@@ -16,7 +16,7 @@ body{
 
     }
    button{
-       color:;
+       
        margin-bottom:15px;
        font-weight: bold;
        background-color:cadetblue;
@@ -34,8 +34,10 @@ body{
          }
 
     #submit-button{
-        color:red;
         margin:10px;
+        background-color: cadetblue;
+        font-weight: bold;
+        font-size:22px;
     }
     h1 {
         font-size: 60px;

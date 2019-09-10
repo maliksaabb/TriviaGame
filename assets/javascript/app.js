@@ -108,7 +108,7 @@ $("#start").on("click", start);
   $("#results").text("YAY! You answered " + correct + " correctly out of 5 Questions.");
   }
 
-      //FIX: results are showing up on start button
+      //FIX: results are showing up on start button...
   function reset(){
     var correct = 0;
     $("#questions-display").hide();
