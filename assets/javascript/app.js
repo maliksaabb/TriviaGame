@@ -105,7 +105,7 @@ $("#start").on("click", start);
   
   // make a function for wrong/correct answers put this function in stop function to display them when the time is up (if statements)
   function displayResults(){
-  $("#results").text("You answered " + correct + " correctly out of 5 Questions.");
+  $("#results").text("YAY! You answered " + correct + " correctly out of 5 Questions.");
   }
 
       //FIX: results are showing up on start button

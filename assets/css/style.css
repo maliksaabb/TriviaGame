@@ -43,10 +43,21 @@ body{
     }
     #results {
         font-size: 25px;
+        border-style: hidden;
+        border-color:wheat;
+        background-color:wheat;
+        margin-left:200px;
+        margin-right: 200px;
+        
+        
+
+        
+        
         
     }
     #count-down {
         color: red;
+        
 
     }
 
