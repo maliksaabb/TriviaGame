@@ -16,9 +16,10 @@ body{
 
     }
    button{
-       color: red;
+       color:;
        margin-bottom:15px;
-       padding-top:
+       font-weight: bold;
+       background-color:cadetblue;
        
    }
     h3 {
@@ -43,6 +44,10 @@ body{
     #results {
         font-size: 25px;
         
+    }
+    #count-down {
+        color: red;
+
     }
 
 
